@@ -22,7 +22,7 @@
 
 ## 💳 Github Profile Summary Card
 <p align="left">
-  <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soninirav&theme=vue"/>
+  <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soninirav&theme=gruvbox"/>
 </p>
 
 
